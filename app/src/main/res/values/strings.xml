@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="cat">Cat</string>
+    <string name="linear_layout">Linear Layout</string>
+    <string name="rionegro">Rionegro</string>
+    <string name="descripcion_rionegro">Capital del oriente</string>
+    <string name="descripciion_palacio">Es un palacio de otro mundo</string>
+    <string name="palacio">Palacio</string>
+    <string name="torre">Torre</string>
+    <string name="torre_china">Torre tipo china</string>
+    <string name="torre_eiffel">Torre Eiffel</string>
+    <string name="descripcion_eiffel">Es simbolo de paris</string>
+</resources>
